@@ -1,4 +1,4 @@
-alias python=/Users/im/imavito/report/.venv/bin/python
+alias python=.venv/bin/python
 
 python -m bot2.bot > ./logs/bot1.log 2>&1 &
 python -m bot2.bot > ./logs/bot2.log 2>&1 &
